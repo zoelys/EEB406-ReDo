@@ -1,0 +1,6 @@
+﻿Determination start,Ident,Sample type,Method name,User (short name),Info 1,Anions.Fluoride.Concentration,Anions.Chloride.Concentration,Anions.Bromide.Concentration,Anions.Nitrite.Concentration,Anions.Nitrate.Concentration,Anions.Phosphate.Concentration,Anions.Sulfate.Concentration,Cations.Lithium.Concentration,Cations.Sodium.Concentration,Cations.Ammonium.Concentration,Cations.Potassium.Concentration,Cations.Calcium.Concentration,Cations.Magnesium.Concentration
+,,,,,,,,,,,,,,,,,,
+2025-07-03 13:47:43 UTC-4,TC030725,Sample,An-Cat C6 Method,Ice,,0.223,328.033,0.124,0.192,4.023,0.676,36.668,0.009,203.639,1.277,1.271,82.658,13.029
+2025-07-03 13:28:13 UTC-4,RR030725,Sample,An-Cat C6 Method,Ice,,0.159,347.31,0.107,,0.308,,48.682,0.012,204.068,0.084,1.183,96.23,19.037
+2025-07-03 13:08:45 UTC-4,DR030725,Sample,An-Cat C6 Method,Ice,,0.132,312.714,0.127,0.032,2.233,,47.423,0.023,181.732,,0.976,107.557,19.083
+2025-07-03 12:49:16 UTC-4,YC030725-francesca.tuazon@mail.utoronto.ca,Sample,An-Cat C6 Method,Ice,,0.217,352.364,0.261,0.028,8.936,0.186,56.823,0.017,202.809,0.042,1.109,127.626,25.59
